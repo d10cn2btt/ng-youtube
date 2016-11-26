@@ -1,0 +1,17 @@
+{
+  "name": "ng-yotube",
+  "description": "search and play video youtube",
+  "main": "",
+  "authors": [
+    "truongbt <d10cn2btt@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
